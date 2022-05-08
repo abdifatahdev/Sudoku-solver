@@ -1,2 +1,7 @@
 # Sudoku-solver
-Sudoku Solver Backtracking Visualization
+
+<!-- Sudoku Solver Backtracking Visualization -->
+
+## Preview
+
+![Screenshot](preview_image.jpg)
