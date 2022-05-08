@@ -2,7 +2,7 @@
 
 <!-- Sudoku Solver Backtracking Visualization -->
 
-The idea of this project came when I was trying to learn how "Backtracking Algorithm" work.
+The idea of this project came when I was trying to learn how the "Backtracking Algorithm" works.
 
 ## Preview
 
